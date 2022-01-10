@@ -189,7 +189,7 @@ input::-webkit-input-placeholder {
   transition: opacity 0.3s ease-in-out;
   position: absolute;
   right: 50px;
-  bottom: 58px;
+  bottom: 54px;
 }
 .submit:hover {
   opacity: 0.8;
